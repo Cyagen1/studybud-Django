@@ -4,7 +4,7 @@
 # StudyBuddy
 </div>
 
-## Abot the project
+## About the project
 
 This is a project made with Django Framework, and one of the first projects that I did with the help of a Tutorial Video by Dennis Ivy.
 It demonstrates the workings of the Django Framework and is basically a clone of a Twitter/Learning Forum website.
